@@ -9,8 +9,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
-  -- { import = "astrocommunity.pack.python-ruff" },
-  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.nordic-nvim" },
   { import = "astrocommunity.color.transparent-nvim" },
   -- import/override with your plugins folder
 }
